@@ -1,0 +1,40 @@
+h1{
+    color: rgb(48, 97, 187);
+    text-shadow:2px 2px 4px blue;
+    
+}
+b{
+    color: darkgreen;
+    
+    font-size: 20px;
+    font-style: italic;
+}
+.image{ font-size: small;
+
+}
+body{
+    background-color: rgba(169, 169, 169, 0.945);
+}
+.a{
+    text-align: center;
+  }
+.a img{
+    width: 15vw;
+    height: 25vh;
+    border: 2PX solid red;
+}
+.content b{
+    color: black;
+}
+.content{ 
+    text-align: justify;
+    
+}
+.link{
+        color: blue;
+        text-align: center;
+    }
+.b{
+    text-align: center;
+    font-style: oblique;
+}
